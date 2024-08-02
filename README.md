@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fikri Rama Singgih</h1>
 <h3 align="center">A passionate Data Analytics Engineer from Indonesia</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ebola1997&label=Profile%20views&color=0e75b6&style=flat" alt="ebola1997" /> </p>
+
 - 🔭 I’m currently working on **PRIMA INTEGRASI NETWORK**
 
 - 👯 I’m looking to collaborate on **DATA ANALYTIC AND AI**
@@ -20,6 +22,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ebola1997&show_icons=true&locale=en&layout=compact" alt="ebola1997" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ebola1997&" alt="ebola1997" /></p>
 <!--
 **ebola1997/ebola1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
