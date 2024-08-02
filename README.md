@@ -30,9 +30,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ebola1997&" alt="ebola1997" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=ebola1997&show_icons=true&theme=tokyonight&locale=en" alt="ebola1997" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=ebola1997&show_icons=true&locale=en" alt="ebola1997" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ebola1997&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ebola1997" /></p>
 <!--
 **ebola1997/ebola1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
