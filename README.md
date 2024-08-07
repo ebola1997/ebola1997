@@ -1,25 +1,23 @@
-<h1 align="center">Hi 👋, I'm Fikri Rama Singgih</h1>
+<h1 align="center">Hi 👋, I'm Fikri Rama</h1>
 <h3 align="center">A passionate Data Analytics Engineer from Indonesia</h3>
-
-<!-- **[Website](https://dhafit.xyz/)**<br /> -->
-**[Twitter](https://twitter.com/pikrirama)**
-**[Instagram](https://www.instagram.com/pikrirama)**
-**[LinkedIn](https://www.linkedin.com/in/fikri-rama-singgih)**
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebola1997&label=Profile%20views&color=0e75b6&style=flat" alt="ebola1997" /> </p>
 
-- 🔭 I’m currently working on **PRIMA INTEGRASI NETWORK**
+- 🔭 I’m currently working on **IT Cons**
 
 - 👯 I’m looking to collaborate on **DATA ANALYTIC AND AI**
 
-- 💬 Ask me about **Python, R, Graph Database and Oracle**
+- 💬 Ask me about **Python, R, Graph Database, And Oracle**
 
 - 📫 How to reach me **fikrirama79@gmail.com**
 
 - ⚡ Fun fact **I think I am yapping too much**
 
 <h3 align="left">Connect with me:</h3>
+<!-- **[Website](https://dhafit.xyz/)**<br /> -->
+**[Twitter](https://twitter.com/pikrirama)**
+**[Instagram](https://www.instagram.com/pikrirama)**
+**[LinkedIn](https://www.linkedin.com/in/fikri-rama-singgih)**
 <p align="left">
 </p>
 
