@@ -16,8 +16,11 @@
 <h3 align="left">Connect with me:</h3>
 <!-- **[Website](https://dhafit.xyz/)**<br /> -->
 **[Twitter](https://twitter.com/pikrirama)**
+
 **[Instagram](https://www.instagram.com/pikrirama)**
+
 **[LinkedIn](https://www.linkedin.com/in/fikri-rama-singgih)**
+
 <p align="left">
 </p>
 
