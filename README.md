@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **fikrirama79@gmail.com**
 
-- ⚡ Fun fact **I think I am yapping too much**
+- ⚡ Fun fact **Pak Vincent Core**
 
 <h3 align="left">Connect with me:</h3>
 <!-- **[Website](https://dhafit.xyz/)**<br /> -->
