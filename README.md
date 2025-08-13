@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebola1997&label=Profile%20views&color=0e75b6&style=flat" alt="ebola1997" /> </p>
 
-- 🔭 I’m currently working on **IT Cons**
+- 🔭 I'm currently working at Telkomsel as a TS3 Data Analyst, and I was formerly a team lead for Data Analytics at **IT Cons**.
 
 - 👯 I’m looking to collaborate on **DATA ANALYTIC AND AI**
 
