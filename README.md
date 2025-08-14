@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fikri Rama</h1>
-<h3 align="center">A passionate Data Analytics Engineer from Indonesia</h3>
+<h2 align="center">A passionate Data Analytics Engineer from Indonesia</h2>
+<h3 align="center">Why make it complex when you can simplify it?</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebola1997&label=Profile%20views&color=0e75b6&style=flat" alt="ebola1997" /> </p>
 
