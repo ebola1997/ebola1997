@@ -24,7 +24,7 @@
 
 **[LinkedIn](https://www.linkedin.com/in/fikri-rama-singgih)**
 
-*Beberapa repo bersifat private karena berkaitan dengan pekerjaan yang bersifat NDA*
+*Some repos are private because they involve work that is NDA-compliant.*
 
 <p align="left">
 </p>
