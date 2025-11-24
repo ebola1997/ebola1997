@@ -24,6 +24,8 @@
 
 **[LinkedIn](https://www.linkedin.com/in/fikri-rama-singgih)**
 
+*Beberapa repo bersifat private karena berkaitan dengan pekerjaan yang bersifat NDA*
+
 <p align="left">
 </p>
 
