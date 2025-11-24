@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebola1997&label=Profile%20views&color=0e75b6&style=flat" alt="ebola1997" /> </p>
 
-- 🔭 I'm currently working at Telkomsel as a TS3 Data Analyst, and I was formerly a team lead for Data Analytics at **IT Cons**.
+- 🔭 I'm currently working at Telkomsel as a TS3 Data Analyst, and I was formerly a Team Lead for Data Analytics at **IT Cons.**
+
+- ⚡ **AML Implementor with TigerGraph GraphDB, Oracle APEX Implementor, combining Python and Informatica for data pipeline.**
 
 - 👯 I’m looking to collaborate on **DATA ANALYTIC AND AI**
 
-- 💬 Ask me about **Python, R, Graph Database, And Oracle**
+- 💬 Ask me about **Python, R, Graph Database (TigerGraph Neo4j), Oracle, Cloudera, Linux, Bash Script, Postgres, MySQL**
 
 - 📫 How to reach me **fikrirama79@gmail.com**
-
-- ⚡ Fun fact **Pak Vincent Core**
 
 <h3 align="left">Connect with me:</h3>
 <!-- **[Website](https://dhafit.xyz/)**<br /> -->
