@@ -22,7 +22,7 @@
 
 **[Instagram](https://www.instagram.com/pikrirama)**
 
-**[LinkedIn](https://www.linkedin.com/in/fikri-rama-singgih)**
+<!--**[LinkedIn](https://www.linkedin.com/in/fikri-rama-singgih)**-->
 
 *Some repos are private because they involve work that is NDA-compliant.*
 
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 -->
 
-<h2 align="center">**PORTOFOLIO**</h2>
+<h2 align="center">PORTOFOLIO</h2>
 
 ![Alt Text](https://raw.githubusercontent.com/ebola1997/Belajar/main/port/Fikri_Rama_Porto_page-0001_compressed.jpg)
 ![Alt Text](https://raw.githubusercontent.com/ebola1997/Belajar/main/port/Fikri_Rama_Porto_page-0002_compressed.jpg)
