@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebola1997&label=Profile%20views&color=0e75b6&style=flat" alt="ebola1997" /> </p>
 
-- 🔭 I'm currently working at Telkomsel as a TS3 Data Analyst, and I was formerly a Team Lead for Data Analytics at **IT Cons.**
+- 🔭 I'm currently working at Bank Mandiri via Lawencon International as a Data Engineer,focusing on Store Procedure Oracle and ETL Datastage, and I was formerly a Team Lead for Data Analytics at **IT Cons.**
 
 - ⚡ **AML Implementor with TigerGraph GraphDB, Oracle APEX Implementor, combining Python and Informatica for data pipeline.**
 
